@@ -66,7 +66,9 @@ SVM is the best choice here due to its good accuracy and excellent AUC, indicati
 In this project, I compared regression and classification models for predicting home prices in Chicago. The Gradient Boosting Model outperformed other regression models, with an RMSE of 3.79 and a R² of 0.90, indicating the best accurate predictor. For classification, the Support Vector Machine (SVM) classifier performed best, with an accuracy of 0.83 and an AUC of 0.90, demonstrating its dependability in identifying pricing groups. Overall, combining the two modeling methodologies increases our ability to predict home values and provides more insight into Chicago's market dynamics.
 
  
-
+- **References**
+  chicago house price. (2023, May 20). Kaggle. https://www.kaggle.com/datasets/tawfikelmetwally/chicago-house-price
+  
 
 
 
